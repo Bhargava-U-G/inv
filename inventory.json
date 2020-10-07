@@ -1,0 +1,54 @@
+{
+  "inventory": [
+    {
+      "id": 101,
+      "name": "Pen Drive",
+      "price": 140
+    },
+    {
+      "id": 102,
+      "name": "Head Phone",
+      "price": 100
+    },
+    {
+      "id": 103,
+      "name": "USB Cable",
+      "price": 50
+    },
+    {
+      "id": 104,
+      "name": "Mouse",
+      "price": 150
+    },
+    {
+      "id": 105,
+      "name": "USB Charger",
+      "price": 100
+    },
+    {
+      "id": 106,
+      "name": "Wireless adapter",
+      "price": 300
+    },
+    {
+      "id": 107,
+      "name": "Wireless Mouse",
+      "price": 250
+    },
+    {
+      "id": 108,
+      "name": "Keyboard",
+      "price": 200
+    },
+    {
+      "id": 109,
+      "name": "Wireless Keyboard",
+      "price": 280
+    },
+    {
+      "id": 110,
+      "name": "HDMI Cable",
+      "price": 350
+    }
+  ]
+}
